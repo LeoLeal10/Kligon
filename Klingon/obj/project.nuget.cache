@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEcVm0MuVytzJGz9ykjNWBivk3+4MLZjIDa7EcKz4ZGSA7RDXTcelUHMZ3fOw8BXcUXd1R2O6jEbxwxFgarEJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonardo\\Desktop\\TesteLogica\\Kligon\\Kligon\\Klingon\\Klingon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
