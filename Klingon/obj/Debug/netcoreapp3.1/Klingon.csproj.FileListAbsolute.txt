@@ -1,0 +1,14 @@
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\bin\Debug\netcoreapp3.1\Klingon.exe
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\bin\Debug\netcoreapp3.1\Klingon.deps.json
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\bin\Debug\netcoreapp3.1\Klingon.runtimeconfig.json
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\bin\Debug\netcoreapp3.1\Klingon.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\bin\Debug\netcoreapp3.1\Klingon.dll
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\bin\Debug\netcoreapp3.1\Klingon.pdb
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.dll
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.pdb
+C:\Users\Leonardo\Desktop\TesteLogica\Kligon\Kligon\Klingon\obj\Debug\netcoreapp3.1\Klingon.genruntimeconfig.cache
